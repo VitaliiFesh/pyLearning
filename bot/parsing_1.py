@@ -1,8 +1,25 @@
 import requests
+from bs4 import BeautifulSoup as BS
+import datetime
+from selenium import webdriver
 
-url = 'https://dev.airhubstore.com/'
-page = requests.get(url, auth=('feshchenko.vitalii@gmail.com', '1522'))
-print(page.status_code)
-print(page.content)
-print(page.text)
+
+driver = webdriver.Chrome()
+today = datetime.datetime.now()
+date = today.strftime('%d-%m-%y')
+url = 'https://iev.aero/ru/departures?date=' + date
+driver.get(url)
+class_1 = driver.find_element_by_class_name('tabs-container')
+class_2 = driver.find_element_by_class_name('time-field')
+selectors = driver.find_elements_by_css_selector('td')
+
+sort_in_list = [element.text for element in selectors]
+#print(sort_in_list)
+print(sort_in_list[0])
+driver.close()
+
+
+
+
+
 
