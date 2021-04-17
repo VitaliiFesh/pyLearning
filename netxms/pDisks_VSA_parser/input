@@ -1,0 +1,317 @@
+List of Physical Disks on Controller PERC H740P Adapter  (Not Available)
+
+Controller PERC H740P Adapter  (Not Available)
+ID                              : 0:1:0
+Status                          : Ok
+Name                            : Physical Disk 0:1:0
+State                           : Online
+Power Status                    : Not Applicable
+Bus Protocol                    : SATA
+Media                           : SSD
+Part of Cache Pool              : Not Applicable
+Remaining Rated Write Endurance : 99%
+Failure Predicted               : No
+Revision                        : HG57
+Driver Version                  : Not Applicable
+Model Number                    : Not Applicable
+T10 PI Capable                  : No
+Certified                       : Yes
+Encryption Capable              : No
+Encryption Protocol             : Not Applicable
+Encrypted                       : Not Applicable
+Progress                        : Not Applicable
+Mirror Set ID                   : Not Applicable
+Capacity                        : 1,787.88 GB (1919716163584 bytes)
+Used RAID Disk Space            : 1,787.88 GB (1919716163584 bytes)
+Available RAID Disk Space       : 0.00 GB (0 bytes)
+Hot Spare                       : No
+Vendor ID                       : DELL(tm)
+Product ID                      : MZ7LH1T9HALT0D3
+Serial No.                      : S5YXNE0NB09809
+Part Number                     : KR09F9Y6SSK000BI0104A00
+Negotiated Speed                : 6.00 Gbps
+Capable Speed                   : 6.00 Gbps
+PCIe Negotiated Link Width      : Not Applicable
+PCIe Maximum Link Width         : Not Applicable
+Sector Size                     : 512B
+Device Write Cache              : Not Applicable
+Manufacture Day                 : Not Available
+Manufacture Week                : Not Available
+Manufacture Year                : Not Available
+SAS Address                     : 500056B3F0A89DC0
+WWN                             : 500056B3F0A89DC0
+Non-RAID HDD Disk Cache Policy  : Not Applicable
+Disk Cache Policy               : Not Applicable
+Sub Vendor                      : Not Available
+Available Spare                 : Not Available
+Cryptographic Erase Capable     : Yes
+
+ID                              : 0:1:1
+Status                          : Ok
+Name                            : Physical Disk 0:1:1
+State                           : Online
+Power Status                    : Not Applicable
+Bus Protocol                    : SATA
+Media                           : SSD
+Part of Cache Pool              : Not Applicable
+Remaining Rated Write Endurance : 99%
+Failure Predicted               : No
+Revision                        : HG57
+Driver Version                  : Not Applicable
+Model Number                    : Not Applicable
+T10 PI Capable                  : No
+Certified                       : Yes
+Encryption Capable              : No
+Encryption Protocol             : Not Applicable
+Encrypted                       : Not Applicable
+Progress                        : Not Applicable
+Mirror Set ID                   : Not Applicable
+Capacity                        : 1,787.88 GB (1919716163584 bytes)
+Used RAID Disk Space            : 1,787.88 GB (1919716163584 bytes)
+Available RAID Disk Space       : 0.00 GB (0 bytes)
+Hot Spare                       : No
+Vendor ID                       : DELL(tm)
+Product ID                      : MZ7LH1T9HALT0D3
+Serial No.                      : S5YXNE0NB09823
+Part Number                     : KR09F9Y6SSK000BI010JA00
+Negotiated Speed                : 6.00 Gbps
+Capable Speed                   : 6.00 Gbps
+PCIe Negotiated Link Width      : Not Applicable
+PCIe Maximum Link Width         : Not Applicable
+Sector Size                     : 512B
+Device Write Cache              : Not Applicable
+Manufacture Day                 : Not Available
+Manufacture Week                : Not Available
+Manufacture Year                : Not Available
+SAS Address                     : 500056B3F0A89DC1
+WWN                             : 500056B3F0A89DC1
+Non-RAID HDD Disk Cache Policy  : Not Applicable
+Disk Cache Policy               : Not Applicable
+Sub Vendor                      : Not Available
+Available Spare                 : Not Available
+Cryptographic Erase Capable     : Yes
+
+ID                              : 0:1:2
+Status                          : Ok
+Name                            : Physical Disk 0:1:2
+State                           : Online
+Power Status                    : Not Applicable
+Bus Protocol                    : SATA
+Media                           : SSD
+Part of Cache Pool              : Not Applicable
+Remaining Rated Write Endurance : 99%
+Failure Predicted               : No
+Revision                        : HG57
+Driver Version                  : Not Applicable
+Model Number                    : Not Applicable
+T10 PI Capable                  : No
+Certified                       : Yes
+Encryption Capable              : No
+Encryption Protocol             : Not Applicable
+Encrypted                       : Not Applicable
+Progress                        : Not Applicable
+Mirror Set ID                   : Not Applicable
+Capacity                        : 1,787.88 GB (1919716163584 bytes)
+Used RAID Disk Space            : 1,787.88 GB (1919716163584 bytes)
+Available RAID Disk Space       : 0.00 GB (0 bytes)
+Hot Spare                       : No
+Vendor ID                       : DELL(tm)
+Product ID                      : MZ7LH1T9HALT0D3
+Serial No.                      : S5YXNE0NB09812
+Part Number                     : KR09F9Y6SSK000BI0107A00
+Negotiated Speed                : 6.00 Gbps
+Capable Speed                   : 6.00 Gbps
+PCIe Negotiated Link Width      : Not Applicable
+PCIe Maximum Link Width         : Not Applicable
+Sector Size                     : 512B
+Device Write Cache              : Not Applicable
+Manufacture Day                 : Not Available
+Manufacture Week                : Not Available
+Manufacture Year                : Not Available
+SAS Address                     : 500056B3F0A89DC2
+WWN                             : 500056B3F0A89DC2
+Non-RAID HDD Disk Cache Policy  : Not Applicable
+Disk Cache Policy               : Not Applicable
+Sub Vendor                      : Not Available
+Available Spare                 : Not Available
+Cryptographic Erase Capable     : Yes
+
+ID                              : 0:1:3
+Status                          : Ok
+Name                            : Physical Disk 0:1:3
+State                           : Online
+Power Status                    : Not Applicable
+Bus Protocol                    : SATA
+Media                           : SSD
+Part of Cache Pool              : Not Applicable
+Remaining Rated Write Endurance : 99%
+Failure Predicted               : No
+Revision                        : HG57
+Driver Version                  : Not Applicable
+Model Number                    : Not Applicable
+T10 PI Capable                  : No
+Certified                       : Yes
+Encryption Capable              : No
+Encryption Protocol             : Not Applicable
+Encrypted                       : Not Applicable
+Progress                        : Not Applicable
+Mirror Set ID                   : Not Applicable
+Capacity                        : 1,787.88 GB (1919716163584 bytes)
+Used RAID Disk Space            : 1,787.88 GB (1919716163584 bytes)
+Available RAID Disk Space       : 0.00 GB (0 bytes)
+Hot Spare                       : No
+Vendor ID                       : DELL(tm)
+Product ID                      : MZ7LH1T9HALT0D3
+Serial No.                      : S5YXNE0NB09843
+Part Number                     : KR09F9Y6SSK000BI0115A00
+Negotiated Speed                : 6.00 Gbps
+Capable Speed                   : 6.00 Gbps
+PCIe Negotiated Link Width      : Not Applicable
+PCIe Maximum Link Width         : Not Applicable
+Sector Size                     : 512B
+Device Write Cache              : Not Applicable
+Manufacture Day                 : Not Available
+Manufacture Week                : Not Available
+Manufacture Year                : Not Available
+SAS Address                     : 500056B3F0A89DC3
+WWN                             : 500056B3F0A89DC3
+Non-RAID HDD Disk Cache Policy  : Not Applicable
+Disk Cache Policy               : Not Applicable
+Sub Vendor                      : Not Available
+Available Spare                 : Not Available
+Cryptographic Erase Capable     : Yes
+
+ID                              : 0:1:4
+Status                          : Ok
+Name                            : Physical Disk 0:1:4
+State                           : Online
+Power Status                    : Not Applicable
+Bus Protocol                    : SATA
+Media                           : SSD
+Part of Cache Pool              : Not Applicable
+Remaining Rated Write Endurance : 99%
+Failure Predicted               : No
+Revision                        : HG57
+Driver Version                  : Not Applicable
+Model Number                    : Not Applicable
+T10 PI Capable                  : No
+Certified                       : Yes
+Encryption Capable              : No
+Encryption Protocol             : Not Applicable
+Encrypted                       : Not Applicable
+Progress                        : Not Applicable
+Mirror Set ID                   : Not Applicable
+Capacity                        : 1,787.88 GB (1919716163584 bytes)
+Used RAID Disk Space            : 1,787.88 GB (1919716163584 bytes)
+Available RAID Disk Space       : 0.00 GB (0 bytes)
+Hot Spare                       : No
+Vendor ID                       : DELL(tm)
+Product ID                      : MZ7LH1T9HALT0D3
+Serial No.                      : S5YXNE0NB09796
+Part Number                     : KR09F9Y6SSK000BI00ZRA00
+Negotiated Speed                : 6.00 Gbps
+Capable Speed                   : 6.00 Gbps
+PCIe Negotiated Link Width      : Not Applicable
+PCIe Maximum Link Width         : Not Applicable
+Sector Size                     : 512B
+Device Write Cache              : Not Applicable
+Manufacture Day                 : Not Available
+Manufacture Week                : Not Available
+Manufacture Year                : Not Available
+SAS Address                     : 500056B3F0A89DC4
+WWN                             : 500056B3F0A89DC4
+Non-RAID HDD Disk Cache Policy  : Not Applicable
+Disk Cache Policy               : Not Applicable
+Sub Vendor                      : Not Available
+Available Spare                 : Not Available
+Cryptographic Erase Capable     : Yes
+
+ID                              : 0:1:5
+Status                          : Ok
+Name                            : Physical Disk 0:1:5
+State                           : Online
+Power Status                    : Not Applicable
+Bus Protocol                    : SATA
+Media                           : SSD
+Part of Cache Pool              : Not Applicable
+Remaining Rated Write Endurance : 99%
+Failure Predicted               : No
+Revision                        : HG57
+Driver Version                  : Not Applicable
+Model Number                    : Not Applicable
+T10 PI Capable                  : No
+Certified                       : Yes
+Encryption Capable              : No
+Encryption Protocol             : Not Applicable
+Encrypted                       : Not Applicable
+Progress                        : Not Applicable
+Mirror Set ID                   : Not Applicable
+Capacity                        : 1,787.88 GB (1919716163584 bytes)
+Used RAID Disk Space            : 1,787.88 GB (1919716163584 bytes)
+Available RAID Disk Space       : 0.00 GB (0 bytes)
+Hot Spare                       : No
+Vendor ID                       : DELL(tm)
+Product ID                      : MZ7LH1T9HALT0D3
+Serial No.                      : S5YXNE0NB09827
+Part Number                     : KR09F9Y6SSK000BI010NA00
+Negotiated Speed                : 6.00 Gbps
+Capable Speed                   : 6.00 Gbps
+PCIe Negotiated Link Width      : Not Applicable
+PCIe Maximum Link Width         : Not Applicable
+Sector Size                     : 512B
+Device Write Cache              : Not Applicable
+Manufacture Day                 : Not Available
+Manufacture Week                : Not Available
+Manufacture Year                : Not Available
+SAS Address                     : 500056B3F0A89DC5
+WWN                             : 500056B3F0A89DC5
+Non-RAID HDD Disk Cache Policy  : Not Applicable
+Disk Cache Policy               : Not Applicable
+Sub Vendor                      : Not Available
+Available Spare                 : Not Available
+Cryptographic Erase Capable     : Yes
+
+ID                              : 0:1:6
+Status                          : Ok
+Name                            : Physical Disk 0:1:6
+State                           : Online
+Power Status                    : Not Applicable
+Bus Protocol                    : SATA
+Media                           : SSD
+Part of Cache Pool              : Not Applicable
+Remaining Rated Write Endurance : 99%
+Failure Predicted               : No
+Revision                        : HG57
+Driver Version                  : Not Applicable
+Model Number                    : Not Applicable
+T10 PI Capable                  : No
+Certified                       : Yes
+Encryption Capable              : No
+Encryption Protocol             : Not Applicable
+Encrypted                       : Not Applicable
+Progress                        : Not Applicable
+Mirror Set ID                   : Not Applicable
+Capacity                        : 1,787.88 GB (1919716163584 bytes)
+Used RAID Disk Space            : 1,787.88 GB (1919716163584 bytes)
+Available RAID Disk Space       : 0.00 GB (0 bytes)
+Hot Spare                       : No
+Vendor ID                       : DELL(tm)
+Product ID                      : MZ7LH1T9HALT0D3
+Serial No.                      : S5YXNE0NB09810
+Part Number                     : KR09F9Y6SSK000BI0105A00
+Negotiated Speed                : 6.00 Gbps
+Capable Speed                   : 6.00 Gbps
+PCIe Negotiated Link Width      : Not Applicable
+PCIe Maximum Link Width         : Not Applicable
+Sector Size                     : 512B
+Device Write Cache              : Not Applicable
+Manufacture Day                 : Not Available
+Manufacture Week                : Not Available
+Manufacture Year                : Not Available
+SAS Address                     : 500056B3F0A89DC6
+WWN                             : 500056B3F0A89DC6
+Non-RAID HDD Disk Cache Policy  : Not Applicable
+Disk Cache Policy               : Not Applicable
+Sub Vendor                      : Not Available
+Available Spare                 : Not Available
+Cryptographic Erase Capable     : Yes
